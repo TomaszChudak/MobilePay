@@ -8,10 +8,7 @@ Params description:
 
 "InvoiceFixedFee": "29.00"   - used in user story no 5, can be changed
 
-"RequiredUserStories" :  null
-or
-"RequiredUserStories" :  "" 
- - this version will cause running all user stories (default behaviour)
+"RequiredUserStories" :  null or "RequiredUserStories" :  ""  - this version will cause running all user stories (default behaviour)
 								
 "RequiredUserStories" :  [ 2, 4] - this version will cause running with only user story 2 and 4
 
